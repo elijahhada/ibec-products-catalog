@@ -15,3 +15,4 @@
 * php artisan key:generate
 * sudo docker compose exec app php artisan migrate --seed
 * Visit http://localhost:1234 to reach the app.
+* Visit https://documenter.getpostman.com/view/5488741/2s84Dpu2Kj for documentation
